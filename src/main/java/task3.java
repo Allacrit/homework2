@@ -1,3 +1,5 @@
+//дополнительно. К калькулятору из предыдущего дз добавить логирование.
+
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.logging.FileHandler;
