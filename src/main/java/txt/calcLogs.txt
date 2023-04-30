@@ -1,0 +1,8 @@
+апр. 30, 2023 7:56:24 PM task3 getResult
+INFO: 7 + 8 = 15
+апр. 30, 2023 7:56:31 PM task3 getResult
+INFO: 7 / 3 = 2
+апр. 30, 2023 7:56:39 PM task3 getResult
+WARNING: 9 2 5 = 2
+апр. 30, 2023 7:56:39 PM task3 getResult
+INFO: 9 * 5 = 45

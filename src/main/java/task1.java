@@ -1,3 +1,6 @@
+//Реализуйте алгоритм сортировки пузырьком числового массива (введён вами),
+//результат после каждой итерации запишите в лог-файл.
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Random;
@@ -23,7 +26,7 @@ public class task1 {
 
     public static int[] babblSort(int arr[]) throws IOException {
         Logger loger = Logger.getLogger(task1.class.getName());
-        FileHandler fileHandler = new FileHandler("src/main/java/logs/Task1.txt");
+        FileHandler fileHandler = new FileHandler("src/main/java/txt/task1.txt");
         SimpleFormatter sFormatter = new SimpleFormatter();
         fileHandler.setFormatter(sFormatter);
         loger.addHandler(fileHandler);
